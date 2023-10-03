@@ -1,8 +1,7 @@
-name: range prog env
+name: ranges
 dependencies:
   - python 
   - flake8
   - cookiecutter
   - pytest
   - black
-  
